@@ -31,7 +31,7 @@ const HomeCards = () => {
             <Card bg="bg-yellow-400">
             <h2 className="text-2xl font-bold">My Business</h2>
             <p className="mt-2 mb-4">
-              A sustainability consulting service. It will be fully operational by May, 2025.
+              A speedy web development service with competitive pricing! Please note: the site is under construction. 
             </p>
             <a href="https://envitricity.com" target="_blank" rel="noopener noreferrer" className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700">
               Envitricity
