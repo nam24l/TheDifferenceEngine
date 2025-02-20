@@ -6,7 +6,7 @@ import BlogPage from './pages/BlogPage';
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/' element={<MainLayout />}>
+    <Route path='/' element={<MainLayout/>}>
       <Route index element={<HomePage/>}/>
       <Route path='/blog' element={<BlogPage/>}/>
     </Route>

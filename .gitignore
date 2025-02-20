@@ -24,4 +24,6 @@ dist-ssr
 *.sw?
 
 # Unnecessary stuff
-*package-lock.json* 
+package-lock.json
+# Local Netlify folder
+.netlify

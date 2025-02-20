@@ -14,7 +14,7 @@ function Navbar() {
          
           <Link className="flex flex-shrink-0 items-center mr-4" href="/index.html">
             <img
-              className="h-10 w-auto"
+              className="w-22 h-22 bg-black rounded-full h-12 w-auto"
               src={logo}
               alt="React Jobs"
             />
