@@ -28,7 +28,7 @@ const HomeCards = () => {
             </a>
             </Card> 
 
-            <Card bg="bg-yellow-400">
+            {/* <Card bg="bg-yellow-400">
             <h2 className="text-2xl font-bold">My Business</h2>
             <p className="mt-2 mb-4">
               A speedy web development service with competitive pricing! Please note: the site is under construction. 
@@ -44,7 +44,7 @@ const HomeCards = () => {
               All about me. Please hire me.
             </p>
             <a href="../src/assets/images/Nelson Munoz-Traxler Resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700">Open PDF</a>
-            </Card> 
+            </Card>  */}
         </div>
       </div>
     </section>
